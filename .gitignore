@@ -1,0 +1,7 @@
+# env files
+*.env
+
+# Any data files
+*.csv
+*.json
+*.txt
