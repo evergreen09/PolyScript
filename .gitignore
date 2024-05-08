@@ -5,3 +5,10 @@
 *.csv
 *.json
 *.txt
+
+# Go mod&sum files
+*.mod
+*.sum
+
+# Python Notebook files
+*.ipynb
